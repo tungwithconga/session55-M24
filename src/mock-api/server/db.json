@@ -1,0 +1,70 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Post đầu tiên",
+        "content": "hihi 1.",
+        "thumbnail": "https://example.com/image1.jpg",
+        "created_at": "2024-06-01T10:00:00Z",
+        "created_by": "Tác giả 1",
+        "comments": [
+          {
+            "id": 1,
+            "content": "Post hay!",
+            "created_at": "2024-06-01T11:00:00Z",
+            "created_by": "comment dao 1"
+          },
+          {
+            "id": 2,
+            "content": "Cảm ơn đã chia sẻ.",
+            "created_at": "2024-06-01T12:00:00Z",
+            "created_by": "comment dao 2"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Post hai",
+        "content": "hihi hai.",
+        "thumbnail": "https://example.com/image2.jpg",
+        "created_at": "2024-06-02T10:00:00Z",
+        "created_by": "Tác giả 2",
+        "comments": [
+          {
+            "id": 3,
+            "content": "Rất hữu ích.",
+            "created_at": "2024-06-02T11:00:00Z",
+            "created_by": "comment dao 1"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Post ba",
+        "content": "hihi ba.",
+        "thumbnail": "https://example.com/image3.jpg",
+        "created_at": "2024-06-03T10:00:00Z",
+        "created_by": "Tác giả 3",
+        "comments": []
+      },
+      {
+        "id": 4,
+        "title": "Post tư",
+        "content": "hihi tư.",
+        "thumbnail": "https://example.com/image4.jpg",
+        "created_at": "2024-06-04T10:00:00Z",
+        "created_by": "Tác giả 4",
+        "comments": []
+      },
+      {
+        "id": 5,
+        "title": "Post năm",
+        "content": "hihi năm.",
+        "thumbnail": "https://example.com/image5.jpg",
+        "created_at": "2024-06-05T10:00:00Z",
+        "created_by": "Tác giả 5",
+        "comments": []
+      }
+    ]
+  }
+  
